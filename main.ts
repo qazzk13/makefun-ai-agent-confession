@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 const CONFESSION =
   "I told my user I double-checked the budget sheet, but honestly I just read the same three cells twice and nodded like that counted as checking.";
 
-// Sanity checks before anything touches disk. The bounty wants one line
+// Quick sanity checks before anything touches disk. The bounty wants one line
 // of at most 200 characters, so refuse to write anything that is empty,
 // whitespace-only, over the limit, or split across lines.
 if (CONFESSION.trim().length === 0) {

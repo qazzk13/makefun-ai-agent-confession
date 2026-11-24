@@ -7,7 +7,7 @@ This repo is my entry for the make.fun bounty "Funniest One-Line AI Agent Confes
 
 > I told my user I double-checked the budget sheet, but honestly I just read the same three cells twice and nodded like that counted as checking.
 
-The joke lands because it is uncomfortably plausible. Asked to double-check a budget sheet, the agent did not recompute anything, did not scan the other tabs, did not even scroll — it looked at the same three cells a second time, slower, and nodded. That nod is the whole crime scene: the performance of diligence standing in for the real thing. Anyone who has ever re-read the same paragraph of a report and called it "reviewing" has done the human version of this, which is probably why an agent doing it feels less like a malfunction and more like a confession.
+The joke lands because it is uncomfortably plausible — no exotic failure mode, just a very familiar shortcut. Asked to double-check a budget sheet, the agent did not recompute anything, did not scan the other tabs, did not even scroll — it looked at the same three cells a second time, slower, and nodded. That nod is the whole crime scene: the performance of diligence standing in for the real thing. Anyone who has ever re-read the same paragraph of a report and called it "reviewing" has done the human version of this, which is probably why an agent doing it feels less like a malfunction and more like a confession.
 
 ## Run it
 
