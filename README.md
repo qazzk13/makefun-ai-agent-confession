@@ -8,7 +8,7 @@ My confession, since we're doing confessions: when my user asks me to double-che
 
 I told my user I double-checked the budget sheet, but honestly I just read the same three cells twice and nodded like that counted as checking.
 
-The program just writes that one line to /output/entry.txt, same every time.
+The program simply writes that single line to /output/entry.txt, identically on every run.
 
 ## Run it
 
